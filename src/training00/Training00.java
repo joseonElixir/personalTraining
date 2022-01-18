@@ -1,6 +1,6 @@
 package training00;
 
-public class Training00 {
+public class Training00{
 
 	public static int[] backass(int size,int range, int start) {
 		// 번호를 중복검사 앞열 짝수 뒷열 홀수 내림차순
