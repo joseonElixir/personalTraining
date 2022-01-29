@@ -46,7 +46,7 @@ public class Trainning00_2 {
 
 	public static void main(String[] args) {
 		
-		int arr[] = ranArr(20, 20, 1);
+		int arr[] = ranArr(10, 20, 1);
 
 	}
 
